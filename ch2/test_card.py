@@ -56,4 +56,4 @@ def test_to_dict():
 
 
 if __name__ == "__main__":
-    test_inequality()
+    test_to_dict()
